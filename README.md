@@ -1,1 +1,1 @@
-# Documentation for video-streaming
+# Documentation for video-streaming app
